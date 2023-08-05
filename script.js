@@ -15,4 +15,4 @@ for (let i = 0; i < numbers.length; i++) {
      // Output the even number
     console.log(numbers[i]);
   }
-}$git push
+  }
