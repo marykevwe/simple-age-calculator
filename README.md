@@ -1,2 +1,2 @@
 # simple-age-calculator
-A simple calculator foe age calculation
+A simple calculator for age calculation
